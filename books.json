@@ -1,0 +1,26 @@
+[
+  {
+    "title" : "Kotlin Basics",
+    "web" : "http://kotlin_b.mkproj.com",
+    "pdf" : "https://github.com/MKProj/MKProj-Rev/releases/download/kt_b/Kotlin-Basics_pdf.zip",
+    "language" : "Kotlin"
+  },
+  {
+    "title" : "C++ Basics",
+    "web" : "http://cpp_b.mkproj.com",
+    "pdf" : "https://github.com/MKProj/MKProj-Rev/releases/download/cpp_b/CPP-Basics_pdf.zip",
+    "language" :"C++"
+  },
+  {
+    "title" : "Git Basics",
+    "web" : "http://git_b.mkproj.com",
+    "pdf" : "https://github.com/MKProj/MKProj-Rev/releases/download/git_b/Git-Basics_pdf.zip",
+    "language" :"Git(Bash)"
+  },
+  {
+    "title" : "Rust Basics",
+    "web" : "http://rust_b.mkproj.com",
+    "pdf" : "https://github.com/MKProj/MKProj-Rev/releases/download/rust_b/Rust-Basics_pdf.zip",
+    "language" :"Rust"
+  }
+]
